@@ -1,0 +1,8 @@
+Encrypted message : ±1~<.5Ö2{_9
+Decrypted message : hello world
+Encrypted message : Œ\'?ZŒ1''[5 53ZÖ
+Decrypted message : my name is Aryan
+Encrypted message : b4{}Ye¢5][I{M8
+Decrypted message : this works! :D
+Encrypted message : E1~_.Œ1'|.5b{=&0º
+Decrypted message : Welcome to Cipher
